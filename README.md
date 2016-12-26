@@ -1,2 +1,2 @@
 # GameFramework
-GameFramework
+GameFramework base on jsb+bridge.net
